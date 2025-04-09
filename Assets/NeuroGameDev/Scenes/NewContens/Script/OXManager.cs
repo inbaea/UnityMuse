@@ -19,12 +19,6 @@ public class OXManager : MonoBehaviour
 
     void Start()
     {
-        if (questionData == null || questionData.questions.Count == 0)
-        {
-            Debug.LogError("QuestionData가 비어있거나 연결되지 않았습니다.");
-            return;
-        }
-
         questions = new List<QuestionData.Question>(questionData.questions); // 복사
         scoreText.text = "점수: 0";
 

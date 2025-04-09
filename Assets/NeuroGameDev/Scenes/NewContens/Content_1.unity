@@ -264,7 +264,7 @@ MonoBehaviour:
     isCorrect: 0
     level: 7
   - topic: "\uACFC\uD559"
-    questionText: "\uBC18\uBB3C\uC9C8\uC740 \uC77C\uBC18 \uBB3C\uC9C8\uACFC \uCDA9\uB3CC\uD560
+    questionText: "\uBC18\uBB3C\uC9C8\uC740 \uBB3C\uC9C8\uACFC \uCDA9\uB3CC\uD560
       \uB54C \uC5D0\uB108\uC9C0\uB97C \uBC29\uCD9C\uD55C\uB2E4."
     isCorrect: 1
     level: 7
@@ -274,7 +274,7 @@ MonoBehaviour:
     isCorrect: 1
     level: 5
   - topic: "\uACFC\uD559"
-    questionText: "\uB274\uD2B8\uB9AC\uB178\uB294 \uC9C8\uB7C9\uC774 \uC5C6\uB294
+    questionText: "\uC911\uC131\uBBF8\uC790(neutrino)\uB294 \uC9C8\uB7C9\uC774 \uC5C6\uB294
       \uC785\uC790\uB85C \uAC04\uC8FC\uB41C\uB2E4."
     isCorrect: 0
     level: 6
@@ -307,7 +307,8 @@ MonoBehaviour:
     isCorrect: 1
     level: 4
   - topic: "\uACFC\uD559"
-    questionText: "\uC0AC\uB78C\uC740 \uB0A0 \uC218 \uC788\uB2E4."
+    questionText: "\uC0AC\uB78C\uC740 \uB3C4\uAD6C \uC5C6\uC774 \uC2A4\uC2A4\uB85C\uC758
+      \uD798\uC73C\uB85C \uB0A0 \uC218 \uC788\uB2E4."
     isCorrect: 0
     level: 1
   - topic: "\uACFC\uD559"
@@ -316,9 +317,9 @@ MonoBehaviour:
     isCorrect: 1
     level: 8
   - topic: "\uACFC\uD559"
-    questionText: "\uBAA8\uB4E0 \uAC00\uC2A4\uB294 \uC808\uB300\uC628\uB3C4\uC5D0\uC11C
+    questionText: "\uC774\uB860\uC0C1\uC73C\uB85C \uAE30\uCCB4\uB294 \uC808\uB300\uC601\uB3C4\uC5D0\uC11C
       \uBD80\uD53C\uAC00 0\uC774 \uB41C\uB2E4."
-    isCorrect: 0
+    isCorrect: 1
     level: 8
   - topic: "\uACFC\uD559"
     questionText: "\uBB3C\uC740 100\uB3C4\uC5D0\uC11C \uB053\uB294\uB2E4."
@@ -345,9 +346,10 @@ MonoBehaviour:
     isCorrect: 1
     level: 1
   - topic: "\uACFC\uD559"
-    questionText: "\uB300\uD1B5\uC77C\uC774\uB860(GUT)\uC740 \uAC15\uB825, \uC804\uC790\uAE30\uB825,
-      \uC57D\uB825\uC744 \uD558\uB098\uC758 \uC774\uB860\uC73C\uB85C \uC124\uBA85\uD558\uB824
-      \uD55C\uB2E4."
+    questionText: "\uB300\uD1B5\uC77C\uC774\uB860(GUT)\uC740 \uC790\uC5F0\uACC4\uC5D0\uC11C
+      \uC874\uC7AC\uD558\uB294 4\uAC00\uC9C0 \uD798\uC5D0\uC11C \uC911\uB825\uC744
+      \uC81C\uC678\uD55C\n\uAC15\uB825, \uC804\uC790\uAE30\uB825, \uC57D\uB825\uC744
+      \uD558\uB098\uC758 \uC774\uB860\uC73C\uB85C \uC124\uBA85\uD558\uB824 \uD55C\uB2E4."
     isCorrect: 1
     level: 10
   - topic: "\uACFC\uD559"
@@ -365,7 +367,8 @@ MonoBehaviour:
     isCorrect: 0
     level: 8
   - topic: "\uACFC\uD559"
-    questionText: "\uAD11\uC790\uB294 \uC9C8\uB7C9\uC744 \uAC00\uC9C0\uACE0 \uC788\uB2E4."
+    questionText: "\uAD11\uC790(photon)\uB294 \uC9C8\uB7C9\uC744 \uAC00\uC9C0\uACE0
+      \uC788\uB2E4."
     isCorrect: 0
     level: 8
   - topic: "\uACFC\uD559"
@@ -374,8 +377,8 @@ MonoBehaviour:
     isCorrect: 0
     level: 4
   - topic: "\uACFC\uD559"
-    questionText: "\uC0B0\uC18C\uB294 \uC778\uCCB4\uC5D0\uC11C \uAC00\uC7A5 \uB9CE\uC774
-      \uC874\uC7AC\uD558\uB294 \uC6D0\uC18C\uC774\uB2E4."
+    questionText: "\uC778\uCCB4\uC5D0\uC11C \uAC00\uC7A5 \uB9CE\uC774 \uC874\uC7AC\uD558\uB294
+      \uC6D0\uC18C\uB294 \uC0B0\uC18C\uC774\uB2E4."
     isCorrect: 1
     level: 3
   - topic: "\uACFC\uD559"
@@ -389,8 +392,8 @@ MonoBehaviour:
     isCorrect: 1
     level: 10
   - topic: "\uACFC\uD559"
-    questionText: "\uB274\uD134\uC740 \uC804\uC790\uAE30 \uC774\uB860\uC744 \uC81C\uC548\uD55C
-      \uACFC\uD559\uC790\uC774\uB2E4."
+    questionText: "\uC804\uC790\uAE30 \uC774\uB860\uC744 \uC81C\uC548\uD55C \uACFC\uD559\uC790\uB294
+      \uB274\uD134\uC774\uB2E4."
     isCorrect: 0
     level: 6
   - topic: "\uACFC\uD559"
@@ -445,11 +448,6 @@ MonoBehaviour:
     isCorrect: 0
     level: 9
   - topic: "\uACFC\uD559"
-    questionText: "\uC591\uC790 \uC5BD\uD798\uC744 \uC774\uC6A9\uD558\uBA74 \uC815\uBCF4\uB97C
-      \uBE5B\uBCF4\uB2E4 \uBE60\uB974\uAC8C \uC804\uC1A1\uD560 \uC218 \uC788\uB2E4."
-    isCorrect: 0
-    level: 10
-  - topic: "\uACFC\uD559"
     questionText: "\uD0C4\uC18C\uB294 \uBE44\uAE08\uC18D \uC6D0\uC18C\uC774\uB2E4."
     isCorrect: 1
     level: 5
@@ -478,44 +476,20 @@ MonoBehaviour:
     isCorrect: 0
     level: 1
   - topic: "\uACFC\uD559"
-    questionText: "\uCF54\uB07C\uB9AC\uB294 \uD3EC\uC720\uB958\uC5D0 \uC18D\uD55C\uB2E4."
-    isCorrect: 1
-    level: 1
-  - topic: "\uACFC\uD559"
     questionText: "\uCD08\uB300\uCE6D \uC774\uB860(SUSY)\uC740 \uD45C\uC900 \uBAA8\uD615\uC758
       \uBAA8\uB4E0 \uC785\uC790\uC5D0 \uB300\uD574 \uB3D9\uC77C\uD55C \uC9C8\uB7C9\uC744
       \uAC00\uC9C4 \uC9DD \uC785\uC790\uAC00 \uC874\uC7AC\uD55C\uB2E4\uACE0 \uC608\uCE21\uD55C\uB2E4."
     isCorrect: 1
     level: 10
   - topic: "\uACFC\uD559"
-    questionText: "\uC9C0\uAD6C\uB294 \uB465\uAE00\uB2E4."
-    isCorrect: 1
-    level: 1
-  - topic: "\uACFC\uD559"
     questionText: "\uC218\uC131\uC740 \uD0DC\uC591\uACC4\uC5D0\uC11C \uAC00\uC7A5
       \uD070 \uD589\uC131\uC774\uB2E4."
     isCorrect: 0
     level: 2
   - topic: "\uACFC\uD559"
-    questionText: "\uBE5B\uC758 \uC18D\uB3C4\uB294 \uC77C\uC815\uD558\uBA70 \uBCC0\uD558\uC9C0
-      \uC54A\uB294\uB2E4."
-    isCorrect: 0
-    level: 7
-  - topic: "\uACFC\uD559"
-    questionText: "\uD3EC\uC720\uB958 \uC911\uC5D0\uB3C4 \uC54C\uC744 \uB0B3\uB294
-      \uC885\uB958\uAC00 \uC788\uB2E4."
-    isCorrect: 1
-    level: 3
-  - topic: "\uACFC\uD559"
     questionText: "\uC9C4\uACF5\uC5D0\uC11C\uB294 \uC5B4\uB5A4 \uC804\uC790\uAE30\uD30C\uB3C4
       \uC804\uD30C\uB420 \uC218 \uC5C6\uB2E4."
     isCorrect: 0
-    level: 9
-  - topic: "\uACFC\uD559"
-    questionText: "\uD2B9\uC218 \uC0C1\uB300\uC131 \uC774\uB860\uC5D0\uC11C\uB294
-      \uAD00\uC131\uACC4\uC5D0\uC11C \uBE5B\uC758 \uC18D\uB3C4\uAC00 \uC77C\uC815\uD558\uB2E4\uACE0
-      \uAC00\uC815\uD55C\uB2E4."
-    isCorrect: 1
     level: 9
   - topic: "\uACFC\uD559"
     questionText: "\uC18C\uD589\uC131\uB300\uB294 \uD654\uC131\uACFC \uBAA9\uC131
@@ -523,8 +497,8 @@ MonoBehaviour:
     isCorrect: 1
     level: 4
   - topic: "\uACFC\uD559"
-    questionText: "\uAE08\uC131\uC740 \uD0DC\uC591\uACC4\uC5D0\uC11C \uAC00\uC7A5
-      \uC628\uB3C4\uAC00 \uB192\uC740 \uD589\uC131\uC774\uB2E4."
+    questionText: "\uD0DC\uC591\uACC4\uC5D0\uC11C \uAC00\uC7A5 \uC628\uB3C4\uAC00
+      \uB192\uC740 \uD589\uC131\uC740 \uAE08\uC131\uC774\uB2E4."
     isCorrect: 1
     level: 5
   - topic: "\uACFC\uD559"
@@ -568,11 +542,6 @@ MonoBehaviour:
     isCorrect: 1
     level: 4
   - topic: "\uACFC\uD559"
-    questionText: "\uBB3C\uC740 \uC561\uCCB4 \uC0C1\uD0DC\uC77C \uB54C \uB9C8\uC2E4
-      \uC218 \uC788\uB2E4."
-    isCorrect: 1
-    level: 1
-  - topic: "\uACFC\uD559"
     questionText: "\uD0DC\uC591\uC740 \uBC24\uC5D0 \uB72C\uB2E4."
     isCorrect: 0
     level: 1
@@ -584,7 +553,7 @@ MonoBehaviour:
     level: 10
   - topic: "\uACFC\uD559"
     questionText: "\uBB3C\uACE0\uAE30\uB294 \uBB3C\uC18D\uC5D0\uC11C \uC228\uC744
-      \uC270\uB2E4."
+      \uC274 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 1
   - topic: "\uACFC\uD559"
@@ -610,17 +579,9 @@ MonoBehaviour:
     isCorrect: 0
     level: 4
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uBB38\uC5B4\uB294 \uC2EC\uC7A5\uC774 \uD558\uB098\uBFD0\uC774\uB2E4."
-    isCorrect: 0
-    level: 5
-  - topic: "\uB3D9\uBB3C"
     questionText: "\uBD81\uADF9\uACF0\uC758 \uD53C\uBD80\uB294 \uAC80\uC740\uC0C9\uC774\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uD558\uB9C8\uB294 \uB540\uC744 \uD758\uB9AC\uC9C0 \uC54A\uB294\uB2E4."
-    isCorrect: 0
-    level: 7
   - topic: "\uB3D9\uBB3C"
     questionText: "\uACE0\uC591\uC774\uB294 \uCD08\uCF5C\uB9BF\uC744 \uBA39\uC5B4\uB3C4
       \uAD1C\uCC2E\uB2E4."
@@ -632,18 +593,13 @@ MonoBehaviour:
     isCorrect: 1
     level: 3
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uBC8C\uB4E4\uC740 \uC11C\uB85C \uC758\uC0AC\uC18C\uD1B5\uC744
-      \uD558\uAE30 \uC704\uD574 \uCDA4\uC744 \uCD98\uB2E4."
+    questionText: "\uBC8C\uB4E4\uC740 \uCDA4\uC73C\uB85C \uC758\uC0AC\uC18C\uD1B5\uC744
+      \uD560 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 5
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uC0C1\uC5B4\uB294 \uBF08\uB85C \uC774\uB8E8\uC5B4\uC9C4 \uACE8\uACA9\uC744
-      \uAC00\uC9C0\uACE0 \uC788\uB2E4."
-    isCorrect: 0
-    level: 9
-  - topic: "\uB3D9\uBB3C"
     questionText: "\uCE74\uBA5C\uB808\uC628\uC740 \uD53C\uBD80 \uC0C9\uAE54\uC744
-      \uAC10\uC815 \uC0C1\uD0DC\uC5D0 \uB530\uB77C \uBC14\uAFBC\uB2E4."
+      \uAC10\uC815 \uC0C1\uD0DC\uC5D0 \uB530\uB77C \uBC14\uAFC0 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 7
   - topic: "\uB3D9\uBB3C"
@@ -661,17 +617,9 @@ MonoBehaviour:
     isCorrect: 1
     level: 9
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uD3AD\uADC4\uC740 \uB0A8\uADF9\uC5D0\uB9CC \uC11C\uC2DD\uD55C\uB2E4."
-    isCorrect: 0
-    level: 2
-  - topic: "\uB3D9\uBB3C"
     questionText: "\uD1A0\uB07C\uC758 \uC55E\uB2C8\uB294 \uD3C9\uC0DD \uC790\uB77C\uB09C\uB2E4."
     isCorrect: 1
     level: 3
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uAC70\uBBF8\uB294 \uACE4\uCDA9\uC774\uB2E4."
-    isCorrect: 0
-    level: 1
   - topic: "\uB3D9\uBB3C"
     questionText: "\uCF54\uBFD4\uC18C\uC758 \uBFD4\uC740 \uBF08\uB85C \uC774\uB8E8\uC5B4\uC838
       \uC788\uB2E4."
@@ -703,16 +651,6 @@ MonoBehaviour:
     isCorrect: 0
     level: 1
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uC0C1\uC5B4\uB294 3000\uAC1C \uC774\uC0C1\uC758 \uC774\uB97C
-      \uAC00\uC9C8 \uC218 \uC788\uB2E4."
-    isCorrect: 1
-    level: 8
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uB099\uD0C0\uC758 \uD639\uC740 \uC9C0\uBC29\uC744 \uC800\uC7A5\uD558\uB294
-      \uC5ED\uD560\uC744 \uD55C\uB2E4."
-    isCorrect: 1
-    level: 3
-  - topic: "\uB3D9\uBB3C"
     questionText: "\uC218\uB2EC\uC740 \uB3CC\uC744 \uB3C4\uAD6C\uB85C \uC0AC\uC6A9\uD558\uB294
       \uBA87 \uC548 \uB418\uB294 \uB3D9\uBB3C \uC911 \uD558\uB098\uC774\uB2E4."
     isCorrect: 1
@@ -722,11 +660,6 @@ MonoBehaviour:
       \uC7A0\uC744 \uC794\uB2E4."
     isCorrect: 1
     level: 9
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uB291\uB300\uB294 \uC778\uAC04\uACFC \uAC00\uC7A5 \uAC00\uAE4C\uC6B4
-      \uB3D9\uBB3C \uC911 \uD558\uB098\uC774\uB2E4."
-    isCorrect: 0
-    level: 7
   - topic: "\uB3D9\uBB3C"
     questionText: "\uBD88\uAC00\uC0AC\uB9AC\uB294 \uB1CC\uAC00 \uC5C6\uB2E4."
     isCorrect: 1
@@ -746,19 +679,9 @@ MonoBehaviour:
     isCorrect: 1
     level: 5
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uBB38\uC5B4\uB294 \uC2EC\uC7A5\uC774 \uD558\uB098\uBFD0\uC774\uB2E4."
-    isCorrect: 0
-    level: 4
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uAE30\uB9B0\uC758 \uD600\uB294 \uBCF4\uB77C\uC0C9\uC744 \uB760\uBA70
-      \uC57D 50cm \uAE38\uC774\uB2E4."
+    questionText: "\uAE30\uB9B0\uC758 \uD600\uB294 \uAC80\uD478\uB978 \uC0C9\uC774\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uB291\uB300\uB294 \uBB34\uB9AC\uB97C \uC9C0\uC5B4 \uC0AC\uB0E5\uD558\uC9C0\uB9CC,
-      \uAC00\uB054 \uB2E8\uB3C5\uC73C\uB85C \uC0AC\uB0E5\uD558\uAE30\uB3C4 \uD55C\uB2E4."
-    isCorrect: 1
-    level: 7
   - topic: "\uB3D9\uBB3C"
     questionText: "\uAC00\uC624\uB9AC\uB294 \uC804\uAE30\uB97C \uBC1C\uC0DD\uC2DC\uD0AC
       \uC218 \uC788\uB2E4."
@@ -789,11 +712,6 @@ MonoBehaviour:
     isCorrect: 1
     level: 5
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uD3AD\uADC4\uC758 \uBB34\uB9AC\uB294 '\uCF5C\uB85C\uB2C8(colony)'\uB77C\uACE0
-      \uBD88\uB9B0\uB2E4."
-    isCorrect: 1
-    level: 2
-  - topic: "\uB3D9\uBB3C"
     questionText: "\uC0C1\uC5B4\uB294 \uD3C9\uC0DD \uB3D9\uC548 \uACC4\uC18D\uD574\uC11C
       \uC774\uB97C \uAD50\uCCB4\uD55C\uB2E4."
     isCorrect: 1
@@ -809,8 +727,8 @@ MonoBehaviour:
     isCorrect: 1
     level: 4
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uC624\uB9AC\uB294 \uAC78\uC744 \uB54C \uC55E\uBC1C\uAC00\uB77D\uC774
-      \uC11C\uB85C \uBD99\uC5B4\uC788\uB2E4."
+    questionText: "\uC624\uB9AC\uB294 \uC55E\uBC1C\uAC00\uB77D\uC774 \uC11C\uB85C
+      \uBD99\uC5B4\uC788\uB2E4."
     isCorrect: 1
     level: 2
   - topic: "\uB3D9\uBB3C"
@@ -819,23 +737,9 @@ MonoBehaviour:
     isCorrect: 0
     level: 3
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uBC8C\uC740 \uAFC0\uC744 \uB9CC\uB4E4\uAE30 \uC704\uD574 \uAF43\uAC00\uB8E8\uB97C
-      \uC218\uC9D1\uD55C\uB2E4."
-    isCorrect: 0
-    level: 1
-  - topic: "\uB3D9\uBB3C"
     questionText: "\uD574\uD30C\uB9AC\uB294 \uB1CC\uAC00 \uC5C6\uB2E4."
     isCorrect: 1
     level: 5
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uBD81\uADF9\uACF0\uC758 \uD53C\uBD80\uB294 \uAC80\uC740\uC0C9\uC774\uB2E4."
-    isCorrect: 1
-    level: 6
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uBC15\uC950\uB294 \uC720\uC77C\uD558\uAC8C \uB0A0 \uC218 \uC788\uB294
-      \uD3EC\uC720\uB958\uC774\uB2E4."
-    isCorrect: 1
-    level: 7
   - topic: "\uB3D9\uBB3C"
     questionText: "\uACE0\uC591\uC774\uB294 \uC778\uAC04\uC758 \uB9D0\uC744 \uC774\uD574\uD560
       \uC218 \uC5C6\uB2E4."
@@ -861,10 +765,10 @@ MonoBehaviour:
     isCorrect: 0
     level: 9
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uC9C0\uB124\uB294 100\uAC1C\uC758 \uB2E4\uB9AC\uB97C \uAC00\uC9C0\uACE0
-      \uC788\uB2E4."
-    isCorrect: 0
-    level: 1
+    questionText: "\uC9C0\uB124\uB294 \uB2E4\uB9AC\uAC00 300\uAC1C\uAC00 \uB118\uB294
+      \uC885\uC774 \uC788\uB2E4."
+    isCorrect: 1
+    level: 6
   - topic: "\uB3D9\uBB3C"
     questionText: "\uAC70\uBBF8\uB294 \uACE4\uCDA9\uC774\uB2E4."
     isCorrect: 0
@@ -889,15 +793,10 @@ MonoBehaviour:
     isCorrect: 0
     level: 4
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uC778\uAC04\uC758 \uD53C\uBD80\uB294 28\uC77C\uB9C8\uB2E4 \uC644\uC804\uD788
-      \uC0C8\uB86D\uAC8C \uC7AC\uC0DD\uB41C\uB2E4."
-    isCorrect: 1
-    level: 6
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uC0AC\uB78C\uC758 \uC2DC\uB825\uC740 \uD0DC\uC5B4\uB0A0 \uB54C\uBD80\uD130
-      \uC644\uBCBD\uD558\uB2E4."
+    questionText: "\uC0AC\uB78C\uC758 \uC2DC\uB825\uC740 \uD0DC\uC5B4\uB0AC\uC744
+      \uB54C\uAC00 \uAC00\uC7A5 \uC644\uBCBD\uD558\uB2E4."
     isCorrect: 0
-    level: 2
+    level: 5
   - topic: "\uB3D9\uBB3C"
     questionText: "\uC778\uAC04\uC758 \uD3D0\uB294 \uD558\uB098\uB9CC \uC788\uC5B4\uB3C4
       \uC815\uC0C1\uC801\uC73C\uB85C \uC0DD\uD65C\uD560 \uC218 \uC788\uB2E4."
@@ -909,14 +808,10 @@ MonoBehaviour:
     isCorrect: 1
     level: 8
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uAE08\uBD95\uC5B4\uB294 \uBA87 \uB2EC\uC774 \uC9C0\uB098\uBA74
-      \uAE30\uC5B5\uC744 \uC783\uB294\uB2E4."
+    questionText: "\uAE08\uBD95\uC5B4\uB294 \uD55C \uB2EC \uC774\uC0C1 \uC9C0\uB09C
+      \uC77C\uC744 \uAE30\uC5B5\uD560 \uC218 \uC5C6\uB2E4."
     isCorrect: 0
     level: 3
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uD574\uB9C8\uB294 \uC218\uCEF7\uC774 \uC0C8\uB07C\uB97C \uB0B3\uB294\uB2E4."
-    isCorrect: 1
-    level: 5
   - topic: "\uB3D9\uBB3C"
     questionText: "\uBAA8\uB4E0 \uBB3C\uACE0\uAE30\uB294 \uC544\uAC00\uBBF8\uB85C\uB9CC
       \uD638\uD761\uD55C\uB2E4."
@@ -929,7 +824,7 @@ MonoBehaviour:
     level: 9
   - topic: "\uB3D9\uBB3C"
     questionText: "\uC778\uAC04\uC758 \uCCB4\uC628\uC740 \uD3C9\uADE0\uC801\uC73C\uB85C
-      37\xB0C\uC774\uB2E4."
+      \uC57D 37\xB0C\uC774\uB2E4."
     isCorrect: 1
     level: 1
   - topic: "\uB3D9\uBB3C"
@@ -942,10 +837,6 @@ MonoBehaviour:
       \uC874\uC7AC\uD55C\uB2E4."
     isCorrect: 0
     level: 4
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uACE0\uB798\uB294 \uBB3C\uACE0\uAE30\uC774\uB2E4."
-    isCorrect: 0
-    level: 2
   - topic: "\uB3D9\uBB3C"
     questionText: "\uC778\uAC04\uC758 \uB1CC\uB294 \uC804\uCCB4 \uCCB4\uC911\uC758
       \uC57D 2%\uB97C \uCC28\uC9C0\uD558\uC9C0\uB9CC, \uC5D0\uB108\uC9C0 \uC18C\uBE44\uB7C9\uC740
@@ -968,10 +859,6 @@ MonoBehaviour:
     isCorrect: 1
     level: 2
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uC778\uAC04\uC740 \uB1CC\uC758 10%\uB9CC \uC0AC\uC6A9\uD55C\uB2E4."
-    isCorrect: 0
-    level: 5
-  - topic: "\uB3D9\uBB3C"
     questionText: "\uBB3C\uACE0\uAE30\uB294 \uD56D\uC0C1 \uCC28\uAC00\uC6B4 \uD53C\uB97C
       \uAC00\uC9C0\uACE0 \uC788\uB2E4."
     isCorrect: 0
@@ -986,19 +873,16 @@ MonoBehaviour:
     isCorrect: 1
     level: 6
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uC0AC\uB78C\uC740 \uCD9C\uC0DD \uC2DC 206\uAC1C\uC758 \uBF08\uB97C
-      \uAC00\uC9C0\uACE0 \uC788\uB2E4."
-    isCorrect: 0
+    questionText: "\uC0AC\uB78C\uC740 270\uAC1C \uC774\uC0C1\uC758 \uBF08\uB97C \uAC00\uC9C0\uACE0
+      \uD0DC\uC5B4\uB098\uC9C0\uB9CC, \uC131\uC7A5\uD558\uBA74\uC11C 206\uAC1C\uB85C
+      \uC904\uC5B4\uB4E0\uB2E4."
+    isCorrect: 1
     level: 2
   - topic: "\uB3D9\uBB3C"
     questionText: "\uAE08\uBD95\uC5B4\uB294 \uCCAD\uAC01\uC744 \uAC00\uC9C0\uACE0
       \uC788\uB2E4."
     isCorrect: 1
     level: 3
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uACE0\uB798\uB294 \uBB3C\uACE0\uAE30\uC5D0 \uC18D\uD55C\uB2E4."
-    isCorrect: 0
-    level: 1
   - topic: "\uB3D9\uBB3C"
     questionText: "\uC0AC\uB78C\uC758 \uD53C\uBD80\uB294 \uCCB4\uC628 \uC870\uC808\uC744
       \uB3D5\uAE30 \uC704\uD574 \uB540\uC744 \uBD84\uBE44\uD55C\uB2E4."
@@ -1019,19 +903,10 @@ MonoBehaviour:
     isCorrect: 1
     level: 7
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uCF54\uB07C\uB9AC\uB294 \uD558\uB8E8\uC5D0 \uC57D 150\uB9AC\uD130\uC758
-      \uBB3C\uC744 \uB9C8\uC2E0\uB2E4."
+    questionText: "\uCF54\uB07C\uB9AC\uB294 \uD558\uB8E8\uC5D0 \uC57D 70\uB9AC\uD130
+      \uC774\uC0C1 \uBB3C\uC744 \uB9C8\uC2E0\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uD0C0\uC870\uB294 \uB0A0 \uC218 \uC788\uB294 \uC0C8\uC774\uB2E4."
-    isCorrect: 0
-    level: 2
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uCE74\uBA5C\uB808\uC628\uC740 \uD53C\uBD80\uC0C9\uC744 \uC8FC\uBCC0
-      \uD658\uACBD\uC5D0 \uB9DE\uCD94\uAE30 \uC704\uD574 \uBCC0\uD654\uC2DC\uD0A8\uB2E4."
-    isCorrect: 0
-    level: 7
   - topic: "\uB3D9\uBB3C"
     questionText: "\uC624\uB9AC\uB108\uAD6C\uB9AC\uB294 \uC54C\uC744 \uB0B3\uB294
       \uD3EC\uC720\uB958\uC774\uB2E4."
@@ -1053,14 +928,9 @@ MonoBehaviour:
     isCorrect: 0
     level: 3
   - topic: "\uB3D9\uBB3C"
-    questionText: "\uBB38\uC5B4\uB294 \uC2EC\uC7A5\uC774 3\uAC1C \uC788\uB2E4."
+    questionText: "\uBB38\uC5B4\uB294 \uC2EC\uC7A5\uC774 2\uAC1C \uC774\uC0C1 \uC788\uB2E4."
     isCorrect: 1
     level: 9
-  - topic: "\uB3D9\uBB3C"
-    questionText: "\uCE74\uD53C\uBC14\uB77C\uB294 \uC124\uCE58\uB958 \uC911\uC5D0\uC11C
-      \uAC00\uC7A5 \uD06C\uB2E4."
-    isCorrect: 1
-    level: 7
   - topic: "\uB3D9\uBB3C"
     questionText: "\uD3AD\uADC4\uC740 \uB0A8\uADF9\uC5D0\uC11C\uB9CC \uC11C\uC2DD\uD55C\uB2E4."
     isCorrect: 0
@@ -1113,11 +983,6 @@ MonoBehaviour:
     isCorrect: 0
     level: 6
   - topic: "\uC138\uACC4"
-    questionText: "\uB7EC\uC2DC\uC544\uB294 \uC138\uACC4\uC5D0\uC11C \uAC00\uC7A5
-      \uB113\uC740 \uBA74\uC801\uC744 \uAC00\uC9C4 \uB098\uB77C\uC774\uB2E4."
-    isCorrect: 1
-    level: 7
-  - topic: "\uC138\uACC4"
     questionText: "\uB300\uD55C\uBBFC\uAD6D\uC758 \uC804\uD1B5 \uC758\uC0C1\uC740
       \uAE30\uBAA8\uB178\uC774\uB2E4."
     isCorrect: 0
@@ -1143,11 +1008,6 @@ MonoBehaviour:
     isCorrect: 1
     level: 4
   - topic: "\uC138\uACC4"
-    questionText: "\uC0AC\uD558\uB77C \uC0AC\uB9C9\uC740 \uB0A8\uADF9\uBCF4\uB2E4
-      \uBA74\uC801\uC774 \uB113\uB2E4."
-    isCorrect: 0
-    level: 6
-  - topic: "\uC138\uACC4"
     questionText: "\uB3C5\uC77C\uC758 \uC218\uB3C4\uB294 \uBCA0\uB97C\uB9B0\uC774\uB2E4."
     isCorrect: 1
     level: 3
@@ -1166,11 +1026,6 @@ MonoBehaviour:
     isCorrect: 0
     level: 2
   - topic: "\uC138\uACC4"
-    questionText: "\uD638\uC8FC\uC758 \uB300\uD45C \uB3D9\uBB3C \uC911 \uD558\uB098\uB294
-      \uCF54\uC54C\uB77C\uC774\uB2E4."
-    isCorrect: 1
-    level: 3
-  - topic: "\uC138\uACC4"
     questionText: "\uB0A8\uADF9\uC740 \uC138\uACC4\uC5D0\uC11C \uAC00\uC7A5 \uCD94\uC6B4
       \uB300\uB959\uC774\uB2E4."
     isCorrect: 1
@@ -1181,24 +1036,18 @@ MonoBehaviour:
     isCorrect: 1
     level: 5
   - topic: "\uC138\uACC4"
-    questionText: "\uD540\uB780\uB4DC\uB294 \uC804 \uC138\uACC4\uC5D0\uC11C \uAC00\uC7A5
-      \uB9CE\uC740 \uCEE4\uD53C\uB97C \uC18C\uBE44\uD558\uB294 \uB098\uB77C \uC911
-      \uD558\uB098\uC774\uB2E4."
+    questionText: "\uC77C\uC778\uB2F9 \uC5F0\uAC04 \uCEE4\uD53C \uC18C\uBE44\uB7C9\uC774
+      \uAC00\uC7A5 \uB9CE\uC740 \uB098\uB77C\uB294 \uD540\uB780\uB4DC\uC774\uB2E4."
     isCorrect: 1
     level: 6
   - topic: "\uC138\uACC4"
-    questionText: "\uC544\uB9C8\uC874 \uAC15\uC740 \uC138\uACC4\uC5D0\uC11C \uAC00\uC7A5
-      \uAE34 \uAC15\uC774\uB2E4."
-    isCorrect: 0
-    level: 7
-  - topic: "\uC138\uACC4"
-    questionText: "\uB274\uC9C8\uB79C\uB4DC\uC758 \uC218\uB3C4\uB294 \uC2DC\uB4DC\uB2C8\uC774\uB2E4."
+    questionText: "\uD638\uC8FC\uC758 \uC218\uB3C4\uB294 \uC2DC\uB4DC\uB2C8\uC774\uB2E4."
     isCorrect: 0
     level: 8
   - topic: "\uC138\uACC4"
-    questionText: "\uBC14\uD2F0\uCE78 \uC2DC\uAD6D\uC740 \uC138\uACC4\uC5D0\uC11C
-      \uAC00\uC7A5 \uC791\uC740 \uB098\uB77C\uC774\uB2E4."
-    isCorrect: 1
+    questionText: "\uC138\uACC4\uC5D0\uC11C \uAC00\uC7A5 \uC791\uC740 \uB098\uB77C\uB294
+      \uBAA8\uB098\uCF54\uC774\uB2E4."
+    isCorrect: 0
     level: 9
   - topic: "\uC138\uACC4"
     questionText: "\uBABD\uACE8 \uC81C\uAD6D\uC740 \uC5ED\uC0AC\uC0C1 \uAC00\uC7A5
@@ -1235,11 +1084,6 @@ MonoBehaviour:
       \uC911 \uD558\uB098\uB294 \uD06C\uB8E8\uC544\uC0C1\uC774\uB2E4."
     isCorrect: 1
     level: 1
-  - topic: "\uC138\uACC4"
-    questionText: "\uBBF8\uAD6D\uC758 \uB3C5\uB9BD\uAE30\uB150\uC77C\uC740 7\uC6D4
-      4\uC77C\uC774\uB2E4."
-    isCorrect: 1
-    level: 2
   - topic: "\uC138\uACC4"
     questionText: "\uC601\uAD6D\uC740 \uC720\uB7FD \uC5F0\uD569(EU) \uD68C\uC6D0\uAD6D\uC774\uB2E4."
     isCorrect: 0
@@ -1288,26 +1132,16 @@ MonoBehaviour:
     isCorrect: 0
     level: 6
   - topic: "\uC138\uACC4"
-    questionText: "\uADF8\uB9AC\uC2A4 \uC2E0\uD654\uC5D0\uC11C \uC81C\uC6B0\uC2A4\uB294
-      \uC2E0\uB4E4\uC758 \uC655\uC774\uB2E4."
-    isCorrect: 1
-    level: 8
-  - topic: "\uC138\uACC4"
     questionText: "\uC774\uC2A4\uD0C4\uBD88\uC740 \uD130\uD0A4\uC758 \uC218\uB3C4\uC774\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uC138\uACC4"
-    questionText: "\uB85C\uB9C8 \uC81C\uAD6D\uC740 \uB3D9\uB85C\uB9C8 \uC81C\uAD6D\uACFC
-      \uC11C\uB85C\uB9C8 \uC81C\uAD6D\uC73C\uB85C \uBD84\uC5F4\uB418\uC5C8\uB2E4."
-    isCorrect: 1
-    level: 10
   - topic: "\uC138\uACC4"
     questionText: "\uCE90\uB098\uB2E4\uC758 \uC218\uB3C4\uB294 \uC624\uD0C0\uC640\uC774\uB2E4."
     isCorrect: 1
     level: 2
   - topic: "\uC138\uACC4"
     questionText: "\uC911\uAD6D\uC5D0\uC11C \uC0AC\uC6A9\uB418\uB294 \uACF5\uC2DD
-      \uC5B8\uC5B4\uB294 \uAD11\uB465\uC5B4\uC774\uB2E4."
+      \uC5B8\uC5B4\uB294 \uAD11\uB3D9\uC5B4\uC774\uB2E4."
     isCorrect: 0
     level: 3
   - topic: "\uC138\uACC4"
@@ -1315,11 +1149,6 @@ MonoBehaviour:
       \uC704\uCE58\uD55C \uB098\uB77C\uC774\uB2E4."
     isCorrect: 1
     level: 4
-  - topic: "\uC138\uACC4"
-    questionText: "\uC0AC\uD558\uB77C \uC0AC\uB9C9\uC740 \uC138\uACC4\uC5D0\uC11C
-      \uAC00\uC7A5 \uD070 \uC0AC\uB9C9\uC774\uB2E4."
-    isCorrect: 1
-    level: 5
   - topic: "\uC138\uACC4"
     questionText: "\uC774\uD0C8\uB9AC\uC544\uC758 \uC218\uB3C4\uB294 \uBC00\uB77C\uB178\uC774\uB2E4."
     isCorrect: 0
@@ -1399,26 +1228,17 @@ MonoBehaviour:
     isCorrect: 1
     level: 3
   - topic: "\uC138\uACC4"
-    questionText: "\uB7EC\uC2DC\uC544\uB294 \uC138\uACC4\uC5D0\uC11C \uAC00\uC7A5
-      \uB113\uC740 \uB098\uB77C\uC774\uB2E4."
-    isCorrect: 1
-    level: 6
-  - topic: "\uC138\uACC4"
-    questionText: "\uD3EC\uB974\uD22C\uAC08\uC758 \uACF5\uC6A9\uC5B4\uB294 \uD3EC\uB974\uD22C\uAC08\uC5B4\uC774\uB2E4."
-    isCorrect: 1
-    level: 4
-  - topic: "\uC138\uACC4"
     questionText: "\uC0AC\uBAA8\uC544\uB294 \uC544\uD504\uB9AC\uCE74\uC5D0 \uC704\uCE58\uD55C
       \uB098\uB77C\uC774\uB2E4."
     isCorrect: 0
-    level: 5
+    level: 8
   - topic: "\uC138\uACC4"
     questionText: "\uC774\uC9D1\uD2B8\uC758 \uC218\uB3C4\uB294 \uCE74\uC774\uB85C\uC774\uB2E4."
     isCorrect: 1
     level: 3
   - topic: "\uC138\uACC4"
     questionText: "\uB0A8\uADF9 \uB300\uB959\uC5D0\uB294 \uC601\uAD6C\uC801\uC73C\uB85C
-      \uAC70\uC8FC\uD558\uB294 \uC778\uAD6C\uAC00 100\uB9CC \uBA85 \uC774\uC0C1\uC774\uB2E4."
+      \uAC70\uC8FC(\uC0C1\uC8FC)\uD558\uB294 \uC778\uAD6C\uAC00 1\uB9CC \uBA85 \uC774\uC0C1\uC774\uB2E4."
     isCorrect: 0
     level: 8
   - topic: "\uC138\uACC4"
@@ -1431,11 +1251,6 @@ MonoBehaviour:
       \uB450\uBC14\uC774\uC774\uB2E4."
     isCorrect: 0
     level: 4
-  - topic: "\uC138\uACC4"
-    questionText: "\uC138\uACC4\uC5D0\uC11C \uAC00\uC7A5 \uB9CE\uC740 \uC778\uAD6C\uB97C
-      \uAC00\uC9C4 \uB098\uB77C\uB294 \uC778\uB3C4\uC774\uB2E4."
-    isCorrect: 1
-    level: 7
   - topic: "\uC138\uACC4"
     questionText: "\uB098\uC77C\uAC15\uC740 \uC138\uACC4\uC5D0\uC11C \uAC00\uC7A5
       \uAE34 \uAC15\uC774\uB2E4."
@@ -1501,34 +1316,20 @@ MonoBehaviour:
     isCorrect: 1
     level: 6
   - topic: "\uC138\uACC4"
-    questionText: "\uC624\uC138\uC544\uB2C8\uC544 \uB300\uB959\uC758 \uB300\uBD80\uBD84\uC740
-      \uC0AC\uB9C9 \uAE30\uD6C4\uB97C \uAC00\uC9C0\uACE0 \uC788\uB2E4."
-    isCorrect: 0
-    level: 7
-  - topic: "\uC138\uACC4"
-    questionText: "\uC544\uB9C8\uC874\uAC15\uC740 \uC544\uD504\uB9AC\uCE74 \uB300\uB959\uC744
-      \uD750\uB978\uB2E4."
+    questionText: "\uC544\uB9C8\uC874\uAC15\uC740 \uC544\uD504\uB9AC\uCE74 \uB300\uB959\uC5D0
+      \uC874\uC7AC\uD55C\uB2E4."
     isCorrect: 0
     level: 2
-  - topic: "\uC138\uACC4"
-    questionText: "\uC0AC\uD558\uB77C \uC0AC\uB9C9\uC740 \uC138\uACC4\uC5D0\uC11C
-      \uAC00\uC7A5 \uD070 \uC0AC\uB9C9\uC774\uB2E4."
-    isCorrect: 1
-    level: 5
   - topic: "\uC138\uACC4"
     questionText: "\uBE59\uD558\uC758 \uB300\uBD80\uBD84\uC740 \uB0A8\uADF9\uACFC
       \uADF8\uB9B0\uB780\uB4DC\uC5D0 \uC874\uC7AC\uD55C\uB2E4."
     isCorrect: 1
     level: 4
   - topic: "\uC138\uACC4"
-    questionText: "\uBD81\uC544\uBA54\uB9AC\uCE74 \uB300\uB959\uC5D0\uB294 30\uAC1C
-      \uC774\uC0C1\uC758 \uB098\uB77C\uAC00 \uC788\uB2E4."
-    isCorrect: 0
-    level: 6
-  - topic: "\uC138\uACC4"
-    questionText: "\uC138\uACC4\uC5D0\uC11C \uAC00\uC7A5 \uAE34 \uAC15\uC740 \uB098\uC77C\uAC15\uC774\uB2E4."
+    questionText: "\uBD81\uC544\uBA54\uB9AC\uCE74\uC5D0\uB294 20\uAC1C \uC774\uC0C1\uC758
+      \uB098\uB77C\uAC00 \uC788\uB2E4."
     isCorrect: 1
-    level: 4
+    level: 6
   - topic: "\uC138\uACC4"
     questionText: "\uC0AC\uC6B0\uB514\uC544\uB77C\uBE44\uC544\uC5D0\uB294 \uC601\uAD6C\uC801\uC778
       \uAC15\uC774 \uC874\uC7AC\uD558\uC9C0 \uC54A\uB294\uB2E4."
@@ -1555,8 +1356,8 @@ MonoBehaviour:
     isCorrect: 0
     level: 6
   - topic: "\uC138\uACC4"
-    questionText: "\uC544\uD504\uB9AC\uCE74\uC5D0\uB294 \uC138\uACC4\uC5D0\uC11C
-      \uAC00\uC7A5 \uB9CE\uC740 \uB098\uB77C\uAC00 \uC874\uC7AC\uD55C\uB2E4."
+    questionText: "\uB098\uB77C\uAC00 \uAC00\uC7A5 \uB9CE\uC740 \uB300\uB959\uC740
+      \uC544\uD504\uB9AC\uCE74\uC774\uB2E4."
     isCorrect: 1
     level: 5
   - topic: "\uC138\uACC4"
@@ -1567,7 +1368,7 @@ MonoBehaviour:
   - topic: "\uC138\uACC4"
     questionText: "\uB0A8\uC544\uBA54\uB9AC\uCE74\uC5D0\uB294 20\uAC1C \uC774\uC0C1\uC758
       \uB098\uB77C\uAC00 \uC788\uB2E4."
-    isCorrect: 1
+    isCorrect: 0
     level: 4
   - topic: "\uC138\uACC4"
     questionText: "\uC138\uACC4\uC5D0\uC11C \uAC00\uC7A5 \uB192\uC740 \uD3ED\uD3EC\uB294
@@ -1589,11 +1390,6 @@ MonoBehaviour:
       \uB300\uB959\uC5D0 \uC18D\uD55C \uC12C\uB098\uB77C\uC774\uB2E4."
     isCorrect: 1
     level: 5
-  - topic: "\uC138\uACC4"
-    questionText: "\uC778\uB3C4\uB294 \uC138\uACC4\uC5D0\uC11C \uB450 \uBC88\uC9F8\uB85C
-      \uC778\uAD6C\uAC00 \uB9CE\uC740 \uB098\uB77C\uC774\uB2E4."
-    isCorrect: 1
-    level: 3
   - topic: "\uC138\uACC4"
     questionText: "\uAD6D\uC81C \uD45C\uC900\uC2DC(UTC+0)\uB294 \uC601\uAD6D\uC758
       \uADF8\uB9AC\uB2C8\uCE58 \uCC9C\uBB38\uB300\uB97C \uAE30\uC900\uC73C\uB85C
@@ -1675,562 +1471,562 @@ MonoBehaviour:
       \uACE0\uB300 \uB85C\uB9C8 \uACF5\uD654\uAD6D\uC774\uC5C8\uB2E4."
     isCorrect: 0
     level: 10
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC808\uB3C4\uC8C4\uB294 \uD53C\uD574\uC790\uC758 \uB3D9\uC758
       \uC5C6\uC774 \uD0C0\uC778\uC758 \uBB3C\uAC74\uC744 \uD6D4\uCE58\uB294 \uD589\uC704\uB97C
       \uC758\uBBF8\uD55C\uB2E4."
     isCorrect: 1
     level: 3
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBAA8\uB4E0 \uB098\uB77C\uC5D0\uC11C \uC0AC\uAE30\uC8C4\uB294
       \uD615\uC0AC \uCC98\uBC8C \uB300\uC0C1\uC774\uB2E4."
     isCorrect: 0
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC74C\uC8FC\uC6B4\uC804\uC740 \uCD08\uBC94\uC774\uB77C\uB3C4
       \uBC95\uC801\uC73C\uB85C \uCC98\uBC8C\uBC1B\uC744 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 4
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD574\uD0B9\uC740 \uB2E8\uC21C\uD788 \uCEF4\uD4E8\uD130\uB97C
       \uC870\uC791\uD558\uB294 \uD589\uC704\uC774\uBBC0\uB85C \uBD88\uBC95\uC774
       \uC544\uB2C8\uB2E4."
     isCorrect: 0
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD3ED\uD589\uC8C4\uB294 \uD53C\uD574\uC790\uAC00 \uCC98\uBC8C\uC744
       \uC6D0\uD558\uC9C0 \uC54A\uC73C\uBA74 \uCC98\uBC8C\uD560 \uC218 \uC5C6\uB2E4."
     isCorrect: 0
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC808\uB3C4\uB294 \uD615\uBC95\uC0C1 \uBC94\uC8C4\uB85C \uAC04\uC8FC\uB41C\uB2E4."
     isCorrect: 1
     level: 2
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBAA8\uB4E0 \uB098\uB77C\uC5D0\uC11C \uC0AC\uD615\uC81C\uB3C4\uAC00
       \uD569\uBC95\uC774\uB2E4."
     isCorrect: 0
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC0AC\uC774\uBC84 \uBC94\uC8C4\uB294 \uC624\uD504\uB77C\uC778
       \uBC94\uC8C4\uBCF4\uB2E4 \uCC98\uBC8C\uC774 \uAC00\uBCCD\uB2E4."
     isCorrect: 0
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC74C\uC8FC \uC6B4\uC804\uC740 \uBC94\uC8C4 \uD589\uC704\uC5D0
       \uD574\uB2F9\uD55C\uB2E4."
     isCorrect: 1
     level: 3
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD615\uBC95\uC0C1 \uBBF8\uC131\uB144\uC790\uB294 \uC5B4\uB5A0\uD55C
       \uACBD\uC6B0\uC5D0\uB3C4 \uCC98\uBC8C\uBC1B\uC9C0 \uC54A\uB294\uB2E4."
     isCorrect: 0
     level: 4
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBA85\uC608\uD6FC\uC190\uC740 \uD53C\uD574\uC790\uAC00 \uC6D0\uD558\uC9C0
       \uC54A\uC73C\uBA74 \uCC98\uBC8C\uD560 \uC218 \uC5C6\uB2E4."
     isCorrect: 0
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBD88\uBC95 \uB3C4\uBC15\uC740 \uBC94\uC8C4\uC5D0 \uD574\uB2F9\uD55C\uB2E4."
     isCorrect: 1
     level: 3
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD2B9\uC815 \uC0C1\uD669\uC5D0\uC11C \uD3ED\uB825\uC740 \uC815\uB2F9\uBC29\uC704\uB85C
       \uC778\uC815\uB420 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB1CC\uBB3C \uC218\uC218\uB294 \uACF5\uC9C1\uC790\uB9CC \uCC98\uBC8C\uBC1B\uB294\uB2E4."
     isCorrect: 0
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD574\uD0B9\uC740 \uC815\uBCF4 \uBCF4\uD638\uBC95\uC5D0 \uB530\uB77C
       \uBC94\uC8C4\uB85C \uAC04\uC8FC\uB420 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uAD50\uD1B5\uC0AC\uACE0\uB97C \uB0B8 \uD6C4 \uB3C4\uB9DD\uAC00\uB294
       \uAC83\uC740 \uBC94\uC8C4\uAC00 \uC544\uB2C8\uB2E4."
     isCorrect: 0
     level: 4
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD3ED\uD589\uACFC \uC0C1\uD574\uB294 \uBC95\uC801\uC73C\uB85C
       \uB3D9\uC77C\uD55C \uBC94\uC8C4 \uC720\uD615\uC774\uB2E4."
     isCorrect: 0
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD615\uBC95\uC0C1 \uAC15\uB3C4\uC640 \uC808\uB3C4\uB294 \uAC19\uC740
       \uBC94\uC8C4\uB85C \uCDE8\uAE09\uB41C\uB2E4."
     isCorrect: 0
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC0AC\uAE30\uC8C4\uB294 \uAE08\uC804\uC801 \uD53C\uD574\uAC00
       \uBC1C\uC0DD\uD574\uC57C\uB9CC \uC131\uB9BD\uB41C\uB2E4."
     isCorrect: 0
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uAD6D\uC81C\uD615\uC0AC\uC7AC\uD310\uC18C(ICC)\uB294 \uC804\uC7C1
       \uBC94\uC8C4\uB9CC\uC744 \uB2E4\uB8EC\uB2E4."
     isCorrect: 0
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBB34\uACE0\uC8C4\uB294 \uD5C8\uC704 \uC0AC\uC2E4\uB85C \uD0C0\uC778\uC744
       \uACE0\uC18C\uD588\uC744 \uB54C \uC131\uB9BD\uD55C\uB2E4."
     isCorrect: 1
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uACF5\uAC08\uC8C4\uB294 \uD611\uBC15\uC744 \uD1B5\uD574 \uC0C1\uB300\uBC29\uC774
       \uC2A4\uC2A4\uB85C \uC7AC\uC0B0\uC744 \uB118\uAE30\uB3C4\uB85D \uB9CC\uB4DC\uB294
       \uBC94\uC8C4\uC774\uB2E4."
     isCorrect: 1
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC870\uC9C1 \uBC94\uC8C4\uB294 \uC77C\uBC18\uC801\uC73C\uB85C
       \uAC1C\uC778 \uBC94\uC8C4\uBCF4\uB2E4 \uD615\uB7C9\uC774 \uB0AE\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uAC15\uC694\uC8C4\uB294 \uBB3C\uB9AC\uC801\uC778 \uD3ED\uB825
       \uC5C6\uC774\uB3C4 \uC131\uB9BD\uB420 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uAD6D\uAC00 \uB0B4\uC5D0\uC11C \uBC1C\uC0DD\uD55C \uBAA8\uB4E0
       \uBC94\uC8C4\uB294 \uBC18\uB4DC\uC2DC \uD574\uB2F9 \uAD6D\uAC00\uC5D0\uC11C\uB9CC
       \uC7AC\uD310\uC744 \uBC1B\uC744 \uC218 \uC788\uB2E4."
     isCorrect: 0
     level: 10
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uACBD\uC81C \uBC94\uC8C4\uB294 \uAC15\uB825 \uBC94\uC8C4\uBCF4\uB2E4
       \uC0AC\uD68C\uC801 \uD53C\uD574\uAC00 \uC801\uAE30 \uB54C\uBB38\uC5D0 \uD615\uB7C9\uC774
       \uAC00\uBCCD\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD2B9\uC815 \uAD6D\uAC00\uC5D0\uC11C\uB294 \uB9C8\uC57D \uBC94\uC8C4\uAC00
       \uC0AC\uD615\uC5D0 \uD574\uB2F9\uD560 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBC95\uB960\uC0C1 \uBAA8\uB4E0 \uC0B4\uC778\uC740 \uB3D9\uC77C\uD55C
       \uBC95\uC801 \uCC98\uBC8C\uC744 \uBC1B\uB294\uB2E4."
     isCorrect: 0
     level: 10
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD574\uC678\uC5D0\uC11C \uBC94\uC8C4\uB97C \uC800\uC9C0\uB978
       \uACBD\uC6B0 \uBCF8\uAD6D\uC73C\uB85C \uC1A1\uD658\uB418\uC9C0 \uC54A\uB294
       \uD55C \uCC98\uBC8C\uBC1B\uC744 \uC218 \uC5C6\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC0AC\uC774\uBC84 \uBC94\uC8C4\uB294 \uBB3C\uB9AC\uC801 \uC99D\uAC70\uAC00
       \uBD80\uC871\uD558\uB354\uB77C\uB3C4 IP \uCD94\uC801 \uB4F1\uC744 \uD1B5\uD574
       \uCC98\uBC8C\uB420 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBD88\uBC95 \uC790\uAE08 \uC138\uD0C1\uC740 \uD2B9\uC815 \uAD6D\uAC00\uC5D0\uC11C\uB9CC
       \uBD88\uBC95\uC73C\uB85C \uAC04\uC8FC\uB41C\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uAD6D\uAC00 \uAC04 \uBC94\uC8C4\uC778 \uC778\uB3C4 \uC870\uC57D\uC774
       \uCCB4\uACB0\uB418\uC9C0 \uC54A\uC740 \uACBD\uC6B0 \uBC94\uC8C4\uC790\uB97C
       \uBC18\uB4DC\uC2DC \uBCF8\uAD6D\uC73C\uB85C \uC1A1\uD658\uD574\uC57C \uD55C\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD14C\uB7EC \uD589\uC704\uB294 \uAD6D\uC81C\uBC95\uC0C1 \uC5B4\uB5A4
       \uACBD\uC6B0\uC5D0\uB3C4 \uC815\uB2F9\uD654\uB420 \uC218 \uC5C6\uB2E4."
     isCorrect: 1
     level: 10
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC0B4\uC778\uC8C4\uB294 \uACFC\uC2E4\uC774 \uC5C6\uB294 \uD55C
       \uC0AC\uD615, \uBB34\uAE30\uC9D5\uC5ED \uB610\uB294 10\uB144 \uC774\uC0C1\uC758
       \uC9D5\uC5ED\uD615\uC744 \uC120\uACE0\uBC1B\uB294\uB2E4."
     isCorrect: 1
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC0AC\uC774\uBC84 \uBC94\uC8C4\uB294 \uC2E4\uC9C8\uC801\uC778
       \uBB3C\uB9AC\uC801 \uD53C\uD574\uAC00 \uC5C6\uAE30 \uB54C\uBB38\uC5D0 \uB2E4\uB978
       \uBC94\uC8C4\uBCF4\uB2E4 \uD615\uB7C9\uC774 \uB0AE\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB1CC\uBB3C\uC8C4\uB294 \uACF5\uBB34\uC6D0\uB9CC\uC774 \uCC98\uBC8C
       \uB300\uC0C1\uC774 \uB41C\uB2E4."
     isCorrect: 0
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC99D\uAC70 \uC870\uC791\uC740 \uD615\uC0AC \uC18C\uC1A1\uBC95\uC0C1
       \uBC94\uC8C4\uAC00 \uC544\uB2C8\uBBC0\uB85C \uCC98\uBC8C\uBC1B\uC9C0 \uC54A\uB294\uB2E4."
     isCorrect: 0
     level: 10
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uAC15\uB3C4\uC8C4\uC640 \uC808\uB3C4\uC8C4\uB294 \uD53C\uD574\uC790\uC758
       \uBC18\uC751\uACFC \uAD00\uACC4\uC5C6\uC774 \uB3D9\uC77C\uD55C \uCC98\uBC8C\uC744
       \uBC1B\uB294\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBB34\uAE30 \uBC00\uB9E4\uB294 \uAD6D\uC81C\uC801\uC73C\uB85C
       \uAE08\uC9C0\uB41C \uBC94\uC8C4 \uD589\uC704\uC774\uB2E4."
     isCorrect: 1
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD2B9\uC815 \uAD6D\uAC00\uC5D0\uC11C\uB294 \uC678\uAD6D\uC778\uB3C4
       \uAD6D\uAC00 \uBCF4\uC548\uBC95 \uC704\uBC18\uC73C\uB85C \uCC98\uBC8C\uBC1B\uC744
       \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uACBD\uC81C \uBC94\uC8C4\uB294 \uAC15\uB825 \uBC94\uC8C4\uC5D0
       \uBE44\uD574 \uD53C\uD574\uC790\uAC00 \uBA85\uD655\uD558\uC9C0 \uC54A\uC544
       \uCC98\uBC8C\uC774 \uBD88\uAC00\uB2A5\uD558\uB2E4."
     isCorrect: 0
     level: 10
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB9C8\uC57D \uBC94\uC8C4\uB294 \uB2E8\uC21C \uC18C\uC9C0\uC640
       \uC720\uD1B5\uC774 \uB3D9\uC77C\uD55C \uCC98\uBC8C\uC744 \uBC1B\uB294\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBCF4\uC774\uC2A4 \uD53C\uC2F1\uC5D0 \uAC00\uB2F4\uD55C \uC0AC\uB78C\uC740
       \uC9C1\uC811 \uB3C8\uC744 \uBC1B\uC9C0 \uC54A\uC544\uB3C4 \uACF5\uBC94\uC73C\uB85C
       \uCC98\uBC8C\uBC1B\uC744 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC2A4\uB9C8\uD2B8 \uACC4\uC57D\uC744 \uC774\uC6A9\uD55C \uAE08\uC735
       \uC0AC\uAE30\uB294 \uBC95\uC801\uC73C\uB85C \uCC98\uBC8C\uD560 \uC218 \uC5C6\uB2E4."
     isCorrect: 0
     level: 10
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uAD6D\uC81C\uC801\uC778 \uD574\uD0B9 \uBC94\uC8C4\uB294 \uBC94\uC778\uC774
       \uC18D\uD55C \uAD6D\uAC00\uC5D0\uC11C\uB9CC \uCC98\uBC8C\uD560 \uC218 \uC788\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBD88\uBC95 \uB3C4\uBC15\uC740 \uC628\uB77C\uC778\uC5D0\uC11C
       \uC774\uB8E8\uC5B4\uC9C4 \uACBD\uC6B0 \uCC98\uBC8C\uC774 \uBD88\uAC00\uB2A5\uD558\uB2E4."
     isCorrect: 0
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC870\uC9C1 \uBC94\uC8C4\uC5D0 \uAC00\uB2F4\uD55C \uBAA8\uB4E0
       \uC0AC\uB78C\uC740 \uB3D9\uC77C\uD55C \uD615\uB7C9\uC744 \uBC1B\uB294\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBBF8\uAD6D\uACFC EU\uC5D0\uC11C\uB294 \uAC1C\uC778\uC815\uBCF4
       \uBCF4\uD638\uBC95 \uC704\uBC18\uC774 \uAE30\uC5C5\uC5D0 \uB300\uD574 \uB9E4\uC6B0
       \uAC15\uD55C \uCC98\uBC8C\uC744 \uBD80\uACFC\uD560 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 10
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC77C\uBCF8\uBC95\uC5D0\uC11C\uB294 \uC0B4\uC778\uC8C4\uC758
       \uCD5C\uC18C \uD615\uB7C9\uC774 \uC9D5\uC5ED 5\uB144\uC774\uB2E4."
     isCorrect: 1
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBBF8\uAD6D \uC77C\uBD80 \uC8FC\uC5D0\uC11C\uB294 \uC808\uB3C4\uC8C4\uB85C
       \uC190\uC744 \uC808\uB2E8\uD558\uB294 \uD615\uBC8C\uC774 \uC874\uC7AC\uD55C\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB3C5\uC77C\uC5D0\uC11C\uB294 \uBA85\uC608\uD6FC\uC190\uC8C4\uB85C
       \uC778\uD574 \uC9D5\uC5ED\uD615\uC744 \uC120\uACE0\uBC1B\uC744 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD504\uB791\uC2A4\uC5D0\uC11C\uB294 16\uC138 \uBBF8\uB9CC\uC758
       \uC544\uB3D9\uC744 \uCCB4\uBC8C\uD558\uB294 \uAC83\uC774 \uBC95\uC801\uC73C\uB85C
       \uAE08\uC9C0\uB418\uC5B4 \uC788\uB2E4."
     isCorrect: 1
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC0AC\uC6B0\uB514\uC544\uB77C\uBE44\uC544\uC5D0\uC11C\uB294 \uAC04\uD1B5\uC8C4\uB85C
       \uCD5C\uACE0 \uC0AC\uD615\uAE4C\uC9C0 \uC120\uACE0\uB420 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 10
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uCE90\uB098\uB2E4\uC5D0\uC11C\uB294 \uB9C8\uB9AC\uD654\uB098
       \uC18C\uC9C0\uAC00 \uC5EC\uC804\uD788 \uBD88\uBC95\uC774\uB2E4."
     isCorrect: 0
     level: 4
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC2F1\uAC00\uD3EC\uB974\uC5D0\uC11C\uB294 \uACF5\uACF5\uC7A5\uC18C\uC5D0\uC11C
       \uAECC\uC744 \uC539\uB294 \uAC83\uC774 \uBD88\uBC95\uC774\uB2E4."
     isCorrect: 1
     level: 3
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC2A4\uC704\uC2A4\uC5D0\uC11C\uB294 \uC18D\uB3C4 \uC81C\uD55C\uC744
       \uCD08\uACFC\uD558\uBA74 \uCC28\uB7C9\uC744 \uC555\uC218\uB2F9\uD560 \uC218
       \uC788\uB2E4."
     isCorrect: 1
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB300\uD55C\uBBFC\uAD6D\uC5D0\uC11C\uB294 \uC74C\uC8FC\uC6B4\uC804
       \uCD08\uBC94\uB3C4 \uBB34\uC870\uAC74 \uC9D5\uC5ED\uD615\uC744 \uC120\uACE0\uBC1B\uB294\uB2E4."
     isCorrect: 0
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC774\uB780\uC5D0\uC11C\uB294 \uB3C4\uB451\uC9C8\uC744 \uD558\uB2E4\uAC00
       \uC801\uBC1C\uB418\uBA74 \uC190\uBAA9\uC744 \uC808\uB2E8\uD558\uB294 \uD615\uBC8C\uC774
       \uC874\uC7AC\uD55C\uB2E4."
     isCorrect: 1
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBBF8\uAD6D\uC5D0\uC11C\uB294 \uC5F0\uBC29\uC815\uBD80 \uCC28\uC6D0\uC5D0\uC11C
       \uBAA8\uB4E0 \uC8FC\uC5D0\uC11C \uC0AC\uD615\uC81C\uAC00 \uC2DC\uD589\uB418\uACE0
       \uC788\uB2E4."
     isCorrect: 0
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB178\uB974\uC6E8\uC774\uC5D0\uC11C\uB294 \uB300\uB7C9\uC0B4\uC0C1\uC744
       \uC81C\uC678\uD558\uBA74 \uCD5C\uACE0 \uD615\uB7C9\uC774 21\uB144\uC744 \uB118\uC9C0
       \uC54A\uB294\uB2E4."
     isCorrect: 1
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD638\uC8FC\uC5D0\uC11C\uB294 \uACF5\uACF5\uC7A5\uC18C\uC5D0\uC11C
       \uC54C\uBAB8\uC73C\uB85C \uC0B0\uCC45\uD558\uB294 \uAC83\uC774 \uBD88\uBC95\uC774
       \uC544\uB2C8\uB2E4."
     isCorrect: 0
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB124\uB35C\uB780\uB4DC\uC5D0\uC11C\uB294 \uACBD\uBC94\uC8C4\uC790\uC758
       \uC2E0\uC6D0\uC744 \uACF5\uAC1C\uD558\uB294 \uAC83\uC774 \uBC95\uC801\uC73C\uB85C
       \uAE08\uC9C0\uB418\uC5B4 \uC788\uB2E4."
     isCorrect: 1
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC2A4\uC6E8\uB374\uC5D0\uC11C\uB294 \uACBD\uCC30\uC774 \uD5C8\uB77D
       \uC5C6\uC774 \uAC1C\uC778\uC758 \uD1B5\uC2E0\uC744 \uAC10\uCCAD\uD560 \uC218
       \uC788\uB2E4."
     isCorrect: 0
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB124\uB35C\uB780\uB4DC\uC5D0\uC11C\uB294 \uBAA8\uB4E0 \uB9C8\uC57D\uC774
       \uD569\uBC95\uC774\uB2E4."
     isCorrect: 0
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC0AC\uC6B0\uB514\uC544\uB77C\uBE44\uC544\uC5D0\uC11C\uB294 \uB3C4\uB451\uC9C8\uC744
       \uD558\uBA74 \uC190\uC744 \uC808\uB2E8\uD558\uB294 \uD615\uBC8C\uC774 \uC874\uC7AC\uD55C\uB2E4."
     isCorrect: 1
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB3C5\uC77C\uC5D0\uC11C\uB294 \uD0C8\uC625\uC744 \uC2DC\uB3C4\uD558\uB294
       \uAC83\uC774 \uD569\uBC95\uC774\uB2E4."
     isCorrect: 1
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBBF8\uAD6D \uD14D\uC0AC\uC2A4\uC5D0\uC11C\uB294 \uB9D0\uC5D0\uAC8C
       \uC220\uC744 \uBA39\uC774\uB294 \uAC83\uC774 \uBD88\uBC95\uC774\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD504\uB791\uC2A4\uC5D0\uC11C\uB294 \uB3FC\uC9C0\uC5D0\uAC8C
       '\uB098\uD3F4\uB808\uC639'\uC774\uB77C\uB294 \uC774\uB984\uC744 \uBD99\uC774\uB294
       \uAC83\uC774 \uBD88\uBC95\uC774\uB2E4."
     isCorrect: 1
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC77C\uBCF8\uC5D0\uC11C\uB294 \uACBD\uCC30\uC774 \uC2E0\uCCB4\uC218\uC0C9
       \uC5C6\uC774 \uC2DC\uBBFC\uC758 \uAC00\uBC29\uC744 \uAC80\uC0AC\uD560 \uC218
       \uC788\uB2E4."
     isCorrect: 0
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBD81\uD55C\uC5D0\uC11C\uB294 TV\uB97C \uBCF4\uB2E4\uAC00 \uAEBC\uB3C4
       \uBC94\uC8C4\uB85C \uCC98\uBC8C\uBC1B\uC744 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uCE90\uB098\uB2E4\uC5D0\uC11C\uB294 \uB3D9\uC804 25\uAC1C \uC774\uC0C1\uC744
       \uD55C \uBC88\uC5D0 \uC0AC\uC6A9\uD558\uB294 \uAC83\uC774 \uBD88\uBC95\uC774\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD638\uC8FC\uC5D0\uC11C\uB294 \uD584\uBC84\uAC70\uB97C \uC138\uC6CC\uC11C
       \uBA39\uC73C\uBA74 \uBC8C\uAE08\uC744 \uB0B4\uC57C \uD55C\uB2E4."
     isCorrect: 0
     level: 3
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC911\uAD6D\uC5D0\uC11C\uB294 \uC628\uB77C\uC778 \uAC8C\uC784\uC744
       3\uC2DC\uAC04 \uC774\uC0C1 \uD558\uBA74 \uCC98\uBC8C\uBC1B\uB294\uB2E4."
     isCorrect: 0
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB7EC\uC2DC\uC544\uC5D0\uC11C\uB294 \uC774\uC2AC\uB78C\uC2DD
       \uD788\uC7A1\uC744 \uCC29\uC6A9\uD558\uB294 \uAC83\uC774 \uBD88\uBC95\uC774\uB2E4."
     isCorrect: 0
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC774\uD0C8\uB9AC\uC544\uC5D0\uC11C\uB294 \uBE44\uB458\uAE30\uC5D0\uAC8C
       \uBA39\uC774\uB97C \uC8FC\uB294 \uAC83\uC774 \uBD88\uBC95\uC774\uB2E4."
     isCorrect: 1
     level: 4
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBA55\uC2DC\uCF54\uC5D0\uC11C\uB294 \uACBD\uCC30\uC774 \uC2DC\uBBFC\uC5D0\uAC8C
       \uB1CC\uBB3C\uC744 \uBC1B\uC744 \uACBD\uC6B0, \uC77C\uBD80\uB294 \uBC18\uD658\uD574\uC57C
       \uD55C\uB2E4."
     isCorrect: 1
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC778\uB3C4\uC5D0\uC11C\uB294 \uACF5\uACF5\uC7A5\uC18C\uC5D0\uC11C
       \uC560\uC815\uC744 \uD45C\uD604\uD558\uB294 \uAC83\uC774 \uBC95\uC801\uC73C\uB85C
       \uAE08\uC9C0\uB418\uC5B4 \uC788\uB2E4."
     isCorrect: 1
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBBF8\uAD6D \uCF5C\uB85C\uB77C\uB3C4\uC8FC\uC5D0\uC11C\uB294
       \uBE57\uC18D\uC5D0\uC11C \uB9D0\uC744 \uD0C0\uB294 \uAC83\uC774 \uBD88\uBC95\uC774\uB2E4."
     isCorrect: 0
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD504\uB791\uC2A4\uC5D0\uC11C\uB294 \uBC84\uC2A4\uC5D0\uC11C
       \uD53C\uC544\uB178\uB97C \uC5F0\uC8FC\uD558\uB294 \uAC83\uC774 \uBD88\uBC95\uC774\uB2E4."
     isCorrect: 0
     level: 4
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB0A8\uC544\uD504\uB9AC\uCE74\uACF5\uD654\uAD6D\uC5D0\uC11C\uB294
       \uACF0 \uC778\uD615\uC744 \uC18C\uC720\uD558\uB294 \uAC83\uC774 \uAE08\uC9C0\uB418\uC5B4
       \uC788\uB2E4."
     isCorrect: 0
     level: 3
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB374\uB9C8\uD06C\uC5D0\uC11C\uB294 \uCC28\uB97C \uD0C0\uAE30
       \uC804\uC5D0 \uCC28\uB7C9 \uBC11\uC5D0 \uC0AC\uB78C\uC774 \uC788\uB294\uC9C0
       \uD655\uC778\uD574\uC57C \uD55C\uB2E4."
     isCorrect: 1
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC774\uB780\uC5D0\uC11C\uB294 \uBC14\uBE44 \uC778\uD615\uC744
       \uD310\uB9E4\uD558\uB294 \uAC83\uC774 \uBD88\uBC95\uC774\uB2E4."
     isCorrect: 1
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC2F1\uAC00\uD3EC\uB974\uC5D0\uC11C\uB294 \uACF5\uACF5 \uD654\uC7A5\uC2E4
       \uC0AC\uC6A9 \uD6C4 \uBB3C\uC744 \uB0B4\uB9AC\uC9C0 \uC54A\uC73C\uBA74 \uBC8C\uAE08\uC744
       \uBD80\uACFC\uBC1B\uC744 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uBBF8\uAD6D \uD50C\uB85C\uB9AC\uB2E4\uC5D0\uC11C\uB294 \uC790\uB3D9\uCC28\uB97C
       \uD6C4\uC9C4\uD560 \uB54C \uCC3D\uBB38\uC744 \uC5F4\uACE0 \uC788\uC5B4\uC57C
       \uD55C\uB2E4."
     isCorrect: 0
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC774\uC2A4\uB77C\uC5D8\uC5D0\uC11C\uB294 \uC8FC\uC77C(\uC548\uC2DD\uC77C)\uC5D0
       \uC5D8\uB9AC\uBCA0\uC774\uD130 \uBC84\uD2BC\uC744 \uC9C1\uC811 \uB20C\uB7EC\uC11C\uB294
       \uC548 \uB41C\uB2E4."
     isCorrect: 1
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uCE90\uB098\uB2E4\uC5D0\uC11C\uB294 \uB9C8\uC220\uC0AC \uD589\uC138
       \uAE08\uC9C0\uBC95\uC774\uB77C\uB294 \uAC83\uC774 \uC874\uC7AC\uD588\uB2E4."
     isCorrect: 1
     level: 9
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uB3C5\uC77C\uC5D0\uC11C\uB294 \uC790\uB3D9\uCC28\uAC00 \uACE0\uC18D\uB3C4\uB85C\uC5D0\uC11C
       \uC5F0\uB8CC\uAC00 \uB5A8\uC5B4\uC9C0\uB294 \uAC83\uC774 \uBD88\uBC95\uC774\uB2E4."
     isCorrect: 1
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD0DC\uAD6D\uC5D0\uC11C\uB294 \uACF5\uACF5\uC7A5\uC18C\uC5D0\uC11C
       \uC18D\uC637\uC744 \uC785\uC9C0 \uC54A\uC73C\uBA74 \uBC8C\uAE08\uC744 \uBD80\uACFC\uBC1B\uC744
       \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC2A4\uD398\uC778\uC5D0\uC11C\uB294 \uACF5\uC6D0\uC5D0\uC11C
       \uB0AE\uC7A0\uC744 \uC790\uB294 \uAC83\uC774 \uBC95\uC801\uC73C\uB85C \uAE08\uC9C0\uB418\uC5B4
       \uC788\uB2E4."
     isCorrect: 0
     level: 4
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uC624\uC2A4\uD2B8\uB9AC\uC544\uC5D0\uC11C\uB294 \uAC15\uC544\uC9C0\uC5D0\uAC8C
       \uD2B9\uC815\uD55C \uD5E4\uC5B4\uC2A4\uD0C0\uC77C\uC744 \uD558\uBA74 \uBC8C\uAE08\uC744
       \uB0B4\uC57C \uD55C\uB2E4."
     isCorrect: 0
     level: 3
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C\uB294 \uD615\uBC95\uC0C1 \uC808\uB3C4\uC8C4\uB97C
       \uBC94\uD558\uBA74 \uBB34\uC870\uAC74 \uC2E4\uD615\uC744 \uC120\uACE0\uBC1B\uB294\uB2E4."
     isCorrect: 0
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C \uBA85\uC608\uD6FC\uC190\uC8C4\uB294
       \uC0AC\uC2E4\uC744 \uB9D0\uD574\uB3C4 \uC131\uB9BD\uD560 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D \uD615\uBC95\uC5D0\uC11C \uBBF8\uC131\uB144\uC790\uB294
       \uB9CC 14\uC138 \uBBF8\uB9CC\uC774\uBA74 \uD615\uC0AC\uCC98\uBC8C\uC744 \uBC1B\uC9C0
       \uC54A\uB294\uB2E4."
     isCorrect: 1
     level: 4
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C\uB294 \uD615\uBC95\uC0C1 \uC0AC\uD615\uC81C\uB3C4\uAC00
       \uC874\uC7AC\uD558\uC9C0\uB9CC, \uCD5C\uADFC 20\uB144 \uC774\uC0C1 \uC9D1\uD589\uB41C
       \uC801\uC774 \uC5C6\uB2E4."
     isCorrect: 1
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C\uB294 \uC74C\uC8FC\uC6B4\uC804\uC73C\uB85C
       \uC0AC\uB9DD \uC0AC\uACE0\uB97C \uB0B4\uBA74 \uBB34\uC870\uAC74 \uBB34\uAE30\uC9D5\uC5ED\uC5D0
       \uCC98\uD574\uC9C4\uB2E4."
     isCorrect: 0
     level: 5
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C \uD6A1\uB839\uC8C4\uB294 \uD0C0\uC778\uC758
       \uC7AC\uBB3C\uC744 \uBCF4\uAD00\uD558\uB294 \uC0AC\uB78C\uC774 \uAC1C\uC778\uC801\uC73C\uB85C
       \uC0AC\uC6A9\uD588\uC744 \uB54C \uC131\uB9BD\uD55C\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D \uD615\uBC95\uC0C1 \uC0B4\uC778\uC8C4\uC758 \uACF5\uC18C\uC2DC\uD6A8\uB294
       25\uB144\uC774\uB2E4."
     isCorrect: 0
     level: 8
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C\uB294 \uBD88\uBC95 \uCD2C\uC601\uBB3C\uC744
       \uC18C\uC9C0\uB9CC \uD574\uB3C4 \uCC98\uBC8C\uBC1B\uC744 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C \uACBD\uCC30\uC774 \uC601\uC7A5 \uC5C6\uC774
       \uAC1C\uC778\uC758 \uD734\uB300\uC804\uD654\uB97C \uC555\uC218\uD560 \uC218
       \uC788\uB2E4."
     isCorrect: 0
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C \uB9C8\uC57D \uBC94\uC8C4\uB294 \uCD08\uBC94\uC774\uB77C\uB3C4
       \uBC18\uB4DC\uC2DC \uC2E4\uD615\uC774 \uC120\uACE0\uB41C\uB2E4."
     isCorrect: 0
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C\uB294 \uD0C0\uC778\uC758 \uC8FC\uBBFC\uB4F1\uB85D\uBC88\uD638\uB97C
       \uBD80\uC815 \uC0AC\uC6A9\uD558\uBA74 \uCC98\uBC8C\uBC1B\uC744 \uC218 \uC788\uB2E4."
     isCorrect: 1
     level: 4
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C \uC0AC\uAE30\uC8C4\uB294 \uD53C\uD574
       \uAE08\uC561\uC774 500\uB9CC \uC6D0 \uC774\uC0C1\uC774\uBA74 \uC790\uB3D9\uC73C\uB85C
       \uACE0\uC18C \uC5C6\uC774\uB3C4 \uC218\uC0AC\uD560 \uC218 \uC788\uB2E4."
     isCorrect: 0
     level: 7
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C\uB294 \uBA85\uD655\uD55C \uB3D9\uC758
       \uC5C6\uC774 \uD0C0\uC778\uC758 \uACC4\uC88C\uB85C \uC1A1\uAE08\uB41C \uB3C8\uC744
       \uC778\uCD9C\uD558\uBA74 \uD6A1\uB839\uC8C4\uAC00 \uC131\uB9BD\uD560 \uC218
       \uC788\uB2E4."
     isCorrect: 1
     level: 6
-  - topic: "\uBC94\uC8C4"
+  - topic: "\uBC95\uB960"
     questionText: "\uD55C\uAD6D\uC5D0\uC11C\uB294 \uC7AC\uD310 \uC5C6\uC774 \uACBD\uCC30\uC774
       \uD53C\uC758\uC790\uB97C \uAD6C\uC18D\uD560 \uC218 \uC788\uB2E4."
     isCorrect: 0
